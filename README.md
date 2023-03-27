@@ -1,4 +1,4 @@
-# Simple-Currency-Converter
+# Simple Currency Converter
 
 ## Available Scripts
 
