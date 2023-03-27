@@ -12,9 +12,10 @@ To Install Dependecies
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### `npm start`
+### `Live Demo`
 
-[https://loquacious-creponne-87214b.netlify.app/]
+https://loquacious-creponne-87214b.netlify.app/
 
+### `Rate Of Exchange`
 
-
+Date Of The Exchange Rate : 27-03-2023
